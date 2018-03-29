@@ -3,6 +3,12 @@
     color: #ffffff;
 }
 
+.intro {
+    text-align: center;
+    padding-top:10em;
+    /*color: #00ff00;*/
+}
+
 body {
     background-color: #000000 !important;
     padding-top: 70px;
@@ -22,10 +28,19 @@ footer {
     padding-top: 70px;
 }
 
+.anchor-about {
+    height: 0px;
+
+}
+
 .navbar-dark {
     background-color: #141819 !important;
 }
 
+#navbar-fixed-hidden {
+    display: none;
+}
+
 .testdiv {
-    height: 500px;
+    height: 100%;
 }
