@@ -1,4 +1,31 @@
 .main {
-    background-color: #1e2426;
+    background-color: #000000;
     color: #ffffff;
+}
+
+body {
+    background-color: #000000 !important;
+    padding-top: 70px;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+footer {
+    color: #ffffff;
+    background-color: #141819;
+}
+
+.anchor {
+    padding-top: 70px;
+}
+
+.navbar-dark {
+    background-color: #141819 !important;
+}
+
+.testdiv {
+    height: 500px;
 }

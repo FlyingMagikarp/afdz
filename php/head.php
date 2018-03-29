@@ -4,5 +4,8 @@ echo "<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/4.0
 echo "<link rel='stylesheet' type='text/css' href='css/style.css'>";
 
 
+//title
+echo "<title>AFDZ</title>";
+echo "<link rel='icon' href='./res/img/icon.png'>"
 
 ?>
