@@ -41,6 +41,26 @@ footer {
     display: none;
 }
 
-.testdiv {
+.introdiv {
     height: 100%;
+}
+
+.introdiv > h1 {
+    color: #FF0000;
+}
+
+.introdiv > h1 > a {
+    color: #ff0000;
+}
+
+.xptable {
+    color: #ffffff;
+}
+
+.xptable>caption {
+    margin-bottom: 10px;
+}
+
+.table_space {
+    width: 30px !important;
 }

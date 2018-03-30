@@ -46,7 +46,7 @@
     <div class="container-fluid">
 
         <!-- Intro -->
-        <div class="testdiv">
+        <div class="introdiv">
             <h1>
                 > Á $ ~&nbsp;<a href="" class="typewrite" data-period="2000" data-type='[ "Welcome to my website.", "Enjoy!" ]'>
                     <span class="wrap"></span>
@@ -165,6 +165,22 @@
                 <p>
                     Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
                 </p>
+
+                <table class="xptable">
+                    <capion>Employment</capion>
+                    <tr>
+                        <td>2012 - 2016</td>
+                        <td class="table_space">&nbsp;</td>
+                        <td>Apprenticeship at Gebäudeversicherung Bern. SAP development and Helpdesk</td>
+                        <td class="table_space">&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td>2016 - 2018</td>
+                        <td class="table_space">&nbsp;</td>
+                        <td>Web developer at dieMobiliar. Webforms with JS, PHP and SQLite</td>
+                        <td class="table_space">&nbsp;</td>
+                    </tr>
+                </table>
             </div>
             <div class="col-sm-1 col-md-1"></div>
         </div>
